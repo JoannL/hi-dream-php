@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+ <head> 
+  <meta charset="utf-8" /> 
+  <meta http-equiv="Access-Control-Allow-Origin" content="*">
+  <link href="../lib/model/css/bootstrap.css" rel="stylesheet" type="text/css" /> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /> 
+  <link rel="import" href="head.html" >
+  <title>用户登录</title> 
+  <style type="text/css">
+    body{
+        background: url("../lib/model/images/bg.jpg") no-repeat;
+        animation-name:myfirst;
+        animation-duration:12s;
+        /*变换时间*/
+        animation-delay:2s;
+        /*动画开始时间*/
+        animation-iteration-count:infinite;
+        /*下一周期循环播放*/
+        animation-play-state:running;
+        background-size: 100%;
+    }
+    /*动画开始运行*/
+    /*@keyframes myfirst
+    {
+        0%   {background:url("../img/1.jpg");}
+        34%  {background:url("../img/2.jpg");}
+        67%  {background:url("../img/3.jpg");}
+        100% {background:url("../img/1.jpg");}
+    }*/
+    .form{background: rgba(255,255,255,0.2);width:350px;margin:150px auto;}
+    /*阴影*/
+    .fa{display: inline-block;top: 27px;left: 6px;position: relative;color: #ccc;}
+    @media screen and (max-device-width: 620px),
+    @media screen and (min-width: 620px) {body{background-image:url(http:../lib/model/images/bg_s.jpg);background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;}}
+    </style> 
+  <script language="JavaScript">
+<!--
+
+function InputCheck(LoginForm){
+  if (LoginForm.username.value == ""){
+    alert("请输入用户名!");
+    LoginForm.username.focus();
+    return (false);
+  }
+  if (LoginForm.password.value == ""){
+    alert("请输入密码!");
+    LoginForm.password.focus();
+    return (false);
+  }
+}
+
+  var getUrlParam = function (name) {
+   var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+   var r = window.location.search.substr(1).match(reg);
+   if (r != null) return unescape(r[2]); return null;
+  }
+
+
+
+window.onload = function(){
+    var redirect = getUrlParam('redirect');
+	document.getElementById("redirect").value=redirect;
+}
+
+//-->
+</script> 
+ </head> 
+ <body> 
+  <form name="LoginForm" method="post" action="../service/login.php" onsubmit="return InputCheck(this)"> 
+  <input type="hidden" id="redirect" name="redirect"/>
+   <div class="container"> 
+    <div class="form row"> 
+     <div class="form-horizontal col-md-offset-3" id="login_form"> 
+      <h3 class="form-title">LOGIN</h3> 
+      <div class="col-md-9"> 
+       <div class="form-group"> 
+        <i class="fa fa-user fa-lg"></i> 
+        <input class="form-control required" type="text" placeholder="Username" id="username" name="username" autofocus="autofocus" maxlength="15" /> 
+       </div> 
+       <div class="form-group"> 
+        <i class="fa fa-lock fa-lg"></i> 
+        <input class="form-control required" type="password" placeholder="Password" id="password" name="password" maxlength="8" /> 
+       </div> 
+       <!--<div class="form-group"> 
+        <label class="checkbox"> <input type="checkbox" name="remember" value="1" />记住我 </label> 
+       </div> -->
+       <div class="form-group col-md-offset-9"> 
+        <button type="submit" class="btn btn-success pull-right" name="submit">登录</button> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </form>  
+ </body>
+</html>

@@ -1,0 +1,279 @@
+[28-Oct-2018 05:50:17 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/hidreamc/public_html/todo/todo.php on line 3
+[28-Oct-2018 05:50:17 UTC] PHP Notice:  Undefined index: user_name in /home/hidreamc/public_html/todo/todo.php on line 7
+[28-Oct-2018 05:50:17 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 05:50:57 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/hidreamc/public_html/todo/todo.php on line 3
+[28-Oct-2018 05:50:57 UTC] PHP Notice:  Undefined index: user_id in /home/hidreamc/public_html/todo/todo.php on line 7
+[28-Oct-2018 05:50:57 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 05:51:00 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/hidreamc/public_html/todo/todo.php on line 3
+[28-Oct-2018 05:51:00 UTC] PHP Notice:  Undefined index: user_id in /home/hidreamc/public_html/todo/todo.php on line 7
+[28-Oct-2018 05:51:00 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 05:51:01 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/hidreamc/public_html/todo/todo.php on line 3
+[28-Oct-2018 05:51:01 UTC] PHP Notice:  Undefined index: user_id in /home/hidreamc/public_html/todo/todo.php on line 7
+[28-Oct-2018 05:51:01 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 05:51:01 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/hidreamc/public_html/todo/todo.php on line 3
+[28-Oct-2018 05:51:01 UTC] PHP Notice:  Undefined index: user_id in /home/hidreamc/public_html/todo/todo.php on line 7
+[28-Oct-2018 05:51:01 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 05:51:01 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/hidreamc/public_html/todo/todo.php on line 3
+[28-Oct-2018 05:51:01 UTC] PHP Notice:  Undefined index: user_id in /home/hidreamc/public_html/todo/todo.php on line 7
+[28-Oct-2018 05:51:01 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 05:51:02 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/hidreamc/public_html/todo/todo.php on line 3
+[28-Oct-2018 05:51:02 UTC] PHP Notice:  Undefined index: user_id in /home/hidreamc/public_html/todo/todo.php on line 7
+[28-Oct-2018 05:51:02 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 05:51:02 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/hidreamc/public_html/todo/todo.php on line 3
+[28-Oct-2018 05:51:02 UTC] PHP Notice:  Undefined index: user_id in /home/hidreamc/public_html/todo/todo.php on line 7
+[28-Oct-2018 05:51:02 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 05:51:37 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/hidreamc/public_html/todo/todo.php on line 3
+[28-Oct-2018 05:51:37 UTC] PHP Notice:  Undefined index: user_id in /home/hidreamc/public_html/todo/todo.php on line 7
+[28-Oct-2018 05:51:37 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 05:51:38 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/hidreamc/public_html/todo/todo.php on line 3
+[28-Oct-2018 05:51:38 UTC] PHP Notice:  Undefined index: user_id in /home/hidreamc/public_html/todo/todo.php on line 7
+[28-Oct-2018 05:51:38 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 05:51:38 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/hidreamc/public_html/todo/todo.php on line 3
+[28-Oct-2018 05:51:38 UTC] PHP Notice:  Undefined index: user_id in /home/hidreamc/public_html/todo/todo.php on line 7
+[28-Oct-2018 05:51:38 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 05:52:07 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/hidreamc/public_html/todo/todo.php on line 3
+[28-Oct-2018 05:52:07 UTC] PHP Notice:  Undefined index: user_id in /home/hidreamc/public_html/todo/todo.php on line 7
+[28-Oct-2018 05:52:07 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 05:57:01 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/hidreamc/public_html/todo/todo.php on line 3
+[28-Oct-2018 05:57:01 UTC] PHP Notice:  Undefined index: user_id in /home/hidreamc/public_html/todo/todo.php on line 7
+[28-Oct-2018 05:57:01 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 05:57:43 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 4
+[28-Oct-2018 05:57:43 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 14
+[28-Oct-2018 05:58:15 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 4
+[28-Oct-2018 05:58:15 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 05:58:15 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 14
+[28-Oct-2018 05:58:16 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 4
+[28-Oct-2018 05:58:16 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 05:58:16 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 14
+[28-Oct-2018 05:58:38 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 4
+[28-Oct-2018 05:58:38 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 05:58:38 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 14
+[28-Oct-2018 06:03:12 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 06:03:12 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 6
+[28-Oct-2018 06:03:12 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 15
+[28-Oct-2018 06:03:15 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 06:03:15 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 6
+[28-Oct-2018 06:03:15 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 15
+[28-Oct-2018 06:03:16 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 06:03:16 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 6
+[28-Oct-2018 06:03:16 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 15
+[28-Oct-2018 06:04:43 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 06:04:43 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 6
+[28-Oct-2018 06:04:43 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 15
+[28-Oct-2018 06:11:37 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 06:11:37 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 6
+[28-Oct-2018 06:11:37 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 15
+[28-Oct-2018 06:13:11 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 06:13:11 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 6
+[28-Oct-2018 06:13:11 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 15
+[28-Oct-2018 06:13:13 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 06:13:13 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 6
+[28-Oct-2018 06:13:13 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 15
+[28-Oct-2018 06:15:25 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 06:15:25 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 6
+[28-Oct-2018 06:15:25 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 15
+[28-Oct-2018 06:15:26 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 06:15:26 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 6
+[28-Oct-2018 06:15:26 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 15
+[28-Oct-2018 06:24:08 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 06:24:08 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 6
+[28-Oct-2018 06:24:08 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 15
+[28-Oct-2018 06:24:08 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 06:24:08 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 6
+[28-Oct-2018 06:24:08 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 15
+[28-Oct-2018 06:29:02 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 15
+[28-Oct-2018 06:29:43 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/hidreamc/public_html/todo/todo.php on line 13
+[28-Oct-2018 06:30:19 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 15
+[28-Oct-2018 06:41:38 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 15
+[28-Oct-2018 06:46:36 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 15
+[28-Oct-2018 06:49:42 UTC] PHP Notice:  Undefined variable: attr in /home/hidreamc/public_html/todo/todo.php on line 15
+[28-Oct-2018 06:50:59 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/hidreamc/public_html/todo/todo.php on line 14
+[28-Oct-2018 07:25:31 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:25:31 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 07:25:55 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:25:57 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:25:59 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:25:59 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 07:26:01 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:26:01 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 07:26:05 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:26:08 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:26:08 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 07:26:21 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:26:21 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 07:27:41 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:27:41 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 07:27:43 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:28:42 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:28:44 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:30:18 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:30:32 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:30:32 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 18
+[28-Oct-2018 07:32:30 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:32:30 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 18
+[28-Oct-2018 07:33:20 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:33:20 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 18
+[28-Oct-2018 07:33:23 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:33:23 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 18
+[28-Oct-2018 07:33:33 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:33:33 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 18
+[28-Oct-2018 07:33:34 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:33:34 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 18
+[28-Oct-2018 07:33:34 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:33:34 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 18
+[28-Oct-2018 07:34:57 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:34:57 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 18
+[28-Oct-2018 07:40:23 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:40:23 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 07:40:34 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:57:30 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:57:30 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 07:57:44 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:57:44 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 07:58:06 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:58:06 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 07:59:05 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:59:05 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 07:59:18 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:59:18 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 07:59:19 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:59:42 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 07:59:42 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 08:01:28 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 08:01:28 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 08:01:34 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 08:01:34 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 08:03:29 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 08:03:29 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 08:15:32 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 08:15:32 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:05:53 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:05:53 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:01 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:01 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:02 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:02 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:02 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:02 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:11 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:11 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:17 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:17 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:17 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:17 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:18 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:18 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:18 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:18 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:18 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:18 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:18 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:18 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:18 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:18 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:19 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:19 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:19 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:19 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:19 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:19 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:19 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:19 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:19 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:19 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:20 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:20 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:20 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:20 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:20 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:20 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:20 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:20 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:21 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:21 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:21 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:21 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:21 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:21 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:21 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:21 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:21 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:21 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:22 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:22 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:22 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:22 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:22 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:22 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:22 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:22 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:23 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:23 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:23 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:23 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:23 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:23 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:23 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:23 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:24 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:24 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:24 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:24 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:24 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:24 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:25 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:25 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:25 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:25 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:25 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:25 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:25 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:25 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:26 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:26 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:26 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:26 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:26 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:26 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:27 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:27 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:27 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:27 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:27 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:27 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:27 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:27 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:28 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:28 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 12:06:59 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 12:06:59 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[28-Oct-2018 13:12:30 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[28-Oct-2018 13:12:30 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[30-Oct-2018 03:50:55 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[30-Oct-2018 03:50:55 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[22-Nov-2018 07:13:49 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[22-Nov-2018 07:13:49 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[04-Dec-2018 09:27:12 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[04-Dec-2018 09:27:12 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[04-Dec-2018 09:29:56 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[04-Dec-2018 09:29:56 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[04-Dec-2018 09:30:17 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[04-Dec-2018 09:30:17 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[04-Dec-2018 09:37:21 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[04-Dec-2018 09:38:13 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/todo.php on line 5
+[05-Dec-2018 02:20:27 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/user.php on line 5
+[05-Dec-2018 02:20:53 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/user.php on line 5
+[05-Dec-2018 02:20:59 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/user.php on line 5
+[05-Dec-2018 02:21:21 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/user.php on line 5
+[05-Dec-2018 02:34:03 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/user.php on line 5
+[05-Dec-2018 03:02:29 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/user.php on line 5
+[05-Dec-2018 03:02:46 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/user.php on line 5
+[05-Dec-2018 03:12:49 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/user.php on line 5
+[05-Dec-2018 03:15:28 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[05-Dec-2018 03:19:42 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/user.php on line 5
+[08-Dec-2018 15:20:33 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/user.php on line 5
+[08-Dec-2018 15:20:44 UTC] PHP Notice:  Undefined index: userid in /home/hidreamc/public_html/todo/user.php on line 5
+[08-Dec-2018 15:21:12 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[08-Dec-2018 15:21:12 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[08-Dec-2018 15:21:13 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
+[08-Dec-2018 15:21:14 UTC] PHP Notice:  Trying to get property of non-object in /home/hidreamc/public_html/todo/todo.php on line 17
