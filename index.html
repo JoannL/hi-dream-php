@@ -1,90 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>Hi Dream</title>
-<!-- for-mobile-apps -->
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="" />
-<!-- //for-mobile-apps -->
-<link href="lib/model/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-<link href="lib/model/css/font-awesome.css" rel="stylesheet" type="text/css" media="all" />
-<!-- //animation --> 
-<link href="lib/model/css/style.css" rel="stylesheet" type="text/css" media="all" />
-
-<script src="lib/js/common/jquery-1.11.1.min.js"></script>
-<script src="lib/model/js/bootstrap.js"></script>
-<script type="text/javascript">
-	jQuery(document).ready(function($) {
-		$(".scroll").click(function(event){
-			event.preventDefault();
-			$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
-		});
-	});
-</script>
-<!-- onlinefonts -->
-<link href="lib/model/css/yanone_kaffeesatz.css" rel="stylesheet">
-<link href="lib/model/css/dancing.css" rel="stylesheet">
-<!-- //onlinefonts -->
-</head>
-<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-		<!-- header -->
-		<div class="header-w3layouts">
-			<!-- Navigation -->
-			<nav class="navbar navbar-default navbar-fixed-top">
-				<div class="container">
-					<div class="navbar-header page-scroll">
-						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-							<span class="sr-only">HI DREAM</span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-						</button>
-						<h1><a class="navbar-brand" href="index.html">HI DREAM</a></h1>
-					</div>
-					<!-- Collect the nav links, forms, and other content for toggling -->
-					<div class="collapse navbar-collapse navbar-ex1-collapse">
-						<ul class="nav navbar-nav navbar-right">
-							<!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-							<li class="hidden"><a class="page-scroll" href="#page-top"></a></li>
-							<li><a class="page-scroll scroll active" href="#home">Home</a></li>
-							<li><a class="page-scroll scroll" href="#hey">Hey</a></li>
-						</ul>
-					</div>
-					<!-- /.navbar-collapse -->
-				</div>
-			</nav>  
-		</div>	
-		<!-- //header -->
-		<div class="header jarallax" id="home">
-			<div class="container">
-				<div class="banner-text text-center">
-					<h2>What kind of life do you want?</h2>
-					<h3> - Joann - </h3>
-				</div>
-				<div class="w3-arrow bounce animated">
-    				<a href="#hey" class="scroll">
-    				    <i class="fa fa-angle-down" aria-hidden="true"></i>
-    				</a>
-			    </div>
-			</div>
-		</div>
-
-	<div class="about" id="hey">
-		<div class="container">
-			<div class="clearfix"></div>
-		</div>
-		<div id="zzsc"></div>
-		<div style="text-align:center;clear:both;margin-top:20px"></div>
+<script type="text/javascript" src="/lib/js/head.js"></script>
+<body>
+	<div id="container"></div>
+	<div id="body" class="container">
+		<aside id="left"></aside>
+		<section id="main">
+			<div class="title">最远的距离</div>
+			<img src="/lib/img/index.jpg">
+		</section>
+		<aside id="right"></aside>
 	</div>
-<!-- zzsc -->
-<script type="text/javascript" src="lib/js/zzsc.js"></script>
-<!-- //zzsc -->
-<!-- jtool -->
-<script type="text/javascript" src="lib/js/jtools.js"></script>
-<!-- //jtool -->
-<!-- start-smoth-scrolling -->
-<script type="text/javascript" src="lib/model/js/easing.js"></script>
-<!-- //here ends scrolling icon -->
 </body>
 </html>
