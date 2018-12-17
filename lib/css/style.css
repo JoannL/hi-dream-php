@@ -79,7 +79,7 @@ ul li{list-style-type: none}
 .header .menu-nav{
     display: inline-block;
     padding: 0 0;
-    margin: 5px 50px;
+    margin: 5px 10px;
     font-family: "Yanone Kaffeesatz";
     height: 40px;
     line-height: 40px;
@@ -102,4 +102,9 @@ ul li{list-style-type: none}
 .title{
     text-align: center;
     padding: 10px;
+}
+@media (min-width: 650px) {
+    .header .menu-nav{
+        margin: 5px 50px;
+    }
 }
