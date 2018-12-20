@@ -19,7 +19,8 @@ class ConnectMysqli{
     private $link;
     //私有的构造方法
     private function __construct($config=array()){
-        $this->host = 'localhost';
+        $this->host = '103.214.194.10';
+        //$this->host = 'localhost';
         $this->port = '3306';
         $this->user = 'hidreamc_joann';
         $this->pass = 'hi-dream-789';

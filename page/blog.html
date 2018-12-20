@@ -1,0 +1,25 @@
+<div id="blog"></div>
+<script>
+
+    $(function(){
+        $("#blog").html("");
+        $.get("service/blog.php" , function(data) {
+            console.log(data);
+            var json = $.parseJSON(data);
+            $(json).each(function (i,v) {
+                var blog = $(getModule(v));
+                $("#blog").append(blog);
+            })
+        })
+    })
+    function getModule(obj){
+        console.log(obj);
+        return ["<div class=\"blog order\">\n",
+        "    <div class=\"title\">",obj.title,"</div>\n",
+        "    <div class=\"content\">\n",
+        "        <div class=\"text\">",obj.content,"</div>\n",
+        "        <div class=\"time\">",obj.create_time,"</div>\n",
+        "    </div>\n" +
+        "</div>"].join("");
+    }
+</script>

@@ -1,6 +1,14 @@
-<aside id="left"></aside>
-<section id="main">
-    <div class="title">最遥远的距离</div>
-    <img src="/lib/img/index.jpg">
+<aside class="left-body"></aside>
+<section class="main">
+
 </section>
-<aside id="right"></aside>
+<aside class="right-body"></aside>
+<div class="clear"></div>
+<script>
+    $(function(){
+        toPage('blog');
+    })
+    function toPage(page){
+        $(".main").load(getRootPath() + "/page/"+page+".html");
+    }
+</script>

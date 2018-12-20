@@ -21,4 +21,3 @@ if($_SERVER['REQUEST_METHOD'] == 'GET'){
     $db->update('b_todo',$todoArray,"user_id ='$userid'");
 }
 exit;
-?>

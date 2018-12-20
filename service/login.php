@@ -58,4 +58,3 @@ if ($result === null) {
     echo $url;
     header($url);
 }
-?>

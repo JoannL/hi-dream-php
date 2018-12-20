@@ -66,12 +66,14 @@ a{
 }
 
 ul li{list-style-type: none}
-
+.clear{ clear:both}
+.order{
+    background: #ffffff;
+    box-shadow: 0 2px 10px 0 #aaaaaa;
+}
 /*-- //Reset-Code --*/
 /*-- head --*/
 .header{
-    background: #ffffff;
-    box-shadow: 2px 2px 3px #aaaaaa;
     max-width: 1600px;
     height: 50px;
     font-size: 20px;
@@ -89,22 +91,45 @@ ul li{list-style-type: none}
     font-weight: lighter;
     font-family: inherit;
 }
-
+#container{
+    margin-bottom: 10px;
+}
 #body{
-    background: #ffffff;
-    box-shadow: 0 2px 10px 0 #aaaaaa;
+    display: inline;
+    width: 100%;
+}
+.blog{
     max-width: 850px;
     font-size: 20px;
-    margin-top: 10px;
-    min-height: 500px;
+    min-height: 100px;
     padding: 10px;
-}
-.title{
-    text-align: center;
-    padding: 10px;
+    float: left;
+    margin: 10px 10px;
 }
 @media (min-width: 650px) {
     .header .menu-nav{
         margin: 5px 50px;
     }
+}
+.left-body{
+    width: 250px;
+    font-size: 20px;
+    /*--min-height: 500px;*/
+    padding: 10px;
+    display: block;
+    float: left;
+    display: none;
+}
+.title{
+    text-align: center;
+    padding: 10px;
+}
+.content .time{
+    margin-top: 10px;
+    font-weight: lighter;
+    font-size: small;
+    float: right;
+}
+.left-body,.right-body,.main{
+    margin:0px 10px;
 }
