@@ -3,7 +3,7 @@
 
     $(function(){
         $("#blog").html("");
-        $.get("service/blog.php" , function(data) {
+        $.get("/../service/blog.php" , function(data) {
             console.log(data);
             var json = $.parseJSON(data);
             $(json).each(function (i,v) {
