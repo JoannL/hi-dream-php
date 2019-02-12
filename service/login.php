@@ -55,6 +55,5 @@ if ($result === null) {
     }else{
         $url = "location:$redirect";
     }
-    echo $url;
     header($url);
 }

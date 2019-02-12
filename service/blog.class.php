@@ -1,6 +1,11 @@
 <?php
 class BlogService{
+    var $db;
 
+    function __construct() {
+        include('conn.php');
+        $this-> $db = ConnectMysqli::getIntance();
+    }
     /**
      * 根据用户id查询博客
      * @param $userId
@@ -12,14 +17,19 @@ class BlogService{
         return $result;
     }
 
+    /**
+     * 保存一条记录
+     * @param $blog
+     */
     function save($blog){
-
         $this->getDB()->insert("b_blog",$blog);
     }
 
+    /**
+     * 获取数据库链接
+     * @return bool|ConnectMysqli
+     */
     function getDB(){
-        include('conn.php');
-        $db=ConnectMysqli::getIntance();
-        return $db;
+        return $this -> $db;
     }
 }
