@@ -25,6 +25,7 @@ header('Access-Control-Allow-Headers:Origin, No-Cache, X-Requested-With, If-Modi
             $blog['content']=$_POST['content'];
             $blog['create_time']=date("Y-m-d H:i:s");
             $blogService ->save($blog);
+            echo "success";
             break;
         case "GET":
             $arr = $blogService -> findBlogByUserId(1);

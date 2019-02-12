@@ -1,7 +1,3 @@
-<script>
-    var version = "/lib/js/head.js?2018122002";
-    document.write("<script type=\"text/javascript\" src=\""+version+"\" charset=\"utf-8\"><\/script>");
-</script>
 <div id="send-blog" class="order">
     <div class="input-group">
         <input type="text" class="form-control" placeholder="标题" name="title">
@@ -10,6 +6,7 @@
     </div>
 
 </div>
+
 <script>
 
     $(function(){
@@ -24,6 +21,8 @@
         }
         $.post("/service/blog.php" , blog , function(data) {
             JTools.noLogin(data);
+            console.log(data);
+            if(data === 'success')
             window.location.href=getRootPath();
         })
     }

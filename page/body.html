@@ -6,7 +6,9 @@
 <div class="clear"></div>
 <script>
     $(function(){
-        toPage('blog');
+        var method = JTools.getQueryVariable("method");
+        method = method ? method :'blog';
+        toPage(method);
     })
     function toPage(page){
         $(".main").load(getRootPath() + "/page/"+page+".html");
