@@ -1,0 +1,30 @@
+<script>
+    var version = "/lib/js/head.js?2018122002";
+    document.write("<script type=\"text/javascript\" src=\""+version+"\" charset=\"utf-8\"><\/script>");
+</script>
+<div id="send-blog" class="order">
+    <div class="input-group">
+        <input type="text" class="form-control" placeholder="标题" name="title">
+        <textarea class="form-control" name="content"></textarea>
+        <button type="button" class="btn btn-default">提交</button>
+    </div>
+
+</div>
+<script>
+
+    $(function(){
+        $("button").click(function(){
+            save();
+        });
+    })
+    function save(){
+        var blog = {"title": $("input[name='title']").val(),"content":$("input[name='content']").val()};
+        if(!blog.title){
+            alert("请填写内容");
+        }
+        $.post("/service/blog.php" , blog , function(data) {
+            JTools.noLogin(data);
+            window.location.href=getRootPath();
+        })
+    }
+</script>
